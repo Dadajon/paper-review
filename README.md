@@ -12,4 +12,4 @@
 
 ### Reading
 
-* [**Objects as Points** *(CVPR 2019)*](https://arxiv.org/abs/1904.07850)
+* [**Objects as Points** *by Xingyi Zhou, Dequan Wang, Philipp Krähenbühl (CVPR 2019)*](https://arxiv.org/abs/1904.07850)
