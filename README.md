@@ -1,6 +1,6 @@
 # Paper Reviews
 <p align="center">
-    <img src="https://images.theconversation.com/files/227046/original/file-20180711-70042-1167u0r.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=496&fit=clip"/>
+    <img src="https://drive.google.com/uc?export=view&id=1DVP9gEqobs4AOGs8DJW8nKyID4oK914w"/>
 </p>
 
 ### Reviewed
