@@ -1,6 +1,6 @@
 # Paper Reviews
 <p align="center">
-    <img src="https://drive.google.com/uc?export=view&id=1DVP9gEqobs4AOGs8DJW8nKyID4oK914w" style="max-width:60%;"/>
+    <img src="https://drive.google.com/uc?export=view&id=1DVP9gEqobs4AOGs8DJW8nKyID4oK914w" style="width:60%;"/>
 </p>
 
 ### Reviewed
