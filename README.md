@@ -13,3 +13,4 @@
 ### Reading
 
 * [**Objects as Points** *by Xingyi Zhou, Dequan Wang, Philipp Krähenbühl (CVPR 2019)*](https://arxiv.org/abs/1904.07850)
+* [**Visualizing and Understanding Convolutional Networks** *by Matthew D. Zeiler and Rob Fergus*](https://arxiv.org/pdf/1311.2901.pdf)
