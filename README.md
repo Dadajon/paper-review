@@ -16,3 +16,4 @@
 * [**Visualizing and Understanding Convolutional Networks** *by Matthew D. Zeiler and Rob Fergus*](https://arxiv.org/pdf/1311.2901.pdf)
 * [**Understanding deep learning requires rethinking generalization** _by Chiyuan Zhang, Samy Bengio, Moritz Hardt, Benjamin Recht, Oriol Vinyals (ICLR 2017)_](https://arxiv.org/abs/1611.03530)
 * [**A Closer Look at Memorization in Deep Networks** _by Devansh Arpit, Stanisław Jastrzębski, Nicolas Ballas, David Krueger, Emmanuel Bengio, Maxinder S. Kanwal, Tegan Maharaj, Asja Fischer, Aaron Courville, Yoshua Bengio, Simon Lacoste-Julien (ICML 2017)_](https://arxiv.org/abs/1706.05394)
+* [**The Loss Surfaces of Multilayer Networks** _by Anna Choromanska, Mikael Henaff, Michael Mathieu, Gérard Ben Arous, Yann LeCun (2015)_](https://arxiv.org/abs/1412.0233)
