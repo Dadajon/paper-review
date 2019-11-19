@@ -14,3 +14,4 @@
 
 * [**Objects as Points** *by Xingyi Zhou, Dequan Wang, Philipp Krähenbühl (CVPR 2019)*](https://arxiv.org/abs/1904.07850)
 * [**Visualizing and Understanding Convolutional Networks** *by Matthew D. Zeiler and Rob Fergus*](https://arxiv.org/pdf/1311.2901.pdf)
+* [**Understanding deep learning requires rethinking generalization** _by Chiyuan Zhang, Samy Bengio, Moritz Hardt, Benjamin Recht, Oriol Vinyals (ICLR 2017)_](https://arxiv.org/abs/1611.03530)
