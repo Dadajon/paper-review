@@ -17,3 +17,5 @@
 * [**Understanding deep learning requires rethinking generalization** _by Chiyuan Zhang, Samy Bengio, Moritz Hardt, Benjamin Recht, Oriol Vinyals (ICLR 2017)_](https://arxiv.org/abs/1611.03530)
 * [**A Closer Look at Memorization in Deep Networks** _by Devansh Arpit, Stanisław Jastrzębski, Nicolas Ballas, David Krueger, Emmanuel Bengio, Maxinder S. Kanwal, Tegan Maharaj, Asja Fischer, Aaron Courville, Yoshua Bengio, Simon Lacoste-Julien (ICML 2017)_](https://arxiv.org/abs/1706.05394)
 * [**The Loss Surfaces of Multilayer Networks** _by Anna Choromanska, Mikael Henaff, Michael Mathieu, Gérard Ben Arous, Yann LeCun (2015)_](https://arxiv.org/abs/1412.0233)
+* [**Everything you wanted to know about Deep Learning for Computer Vision but were
+afraid to ask** _by Ponti, Moacir Antonelli, Ribeiro, Leonardo Sampaio Ferraz, Nazare, Tiago Santana, Bui, Tu and Collomosse, John (2018)_](http://sibgrapi.sid.inpe.br/col/sid.inpe.br/sibgrapi/2017/09.05.22.09/doc/_2017_sibgrapi__Tutorial_Deep_Learning_for_CV___Survey_Paper_CRP.pdf)
