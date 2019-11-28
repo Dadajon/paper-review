@@ -14,7 +14,19 @@
 ### Reading
 
 * [**Visualizing and Understanding Convolutional Networks** *by Matthew D. Zeiler and Rob Fergus*](https://arxiv.org/pdf/1311.2901.pdf)
+
 * [**Understanding deep learning requires rethinking generalization** _by Chiyuan Zhang, Samy Bengio, Moritz Hardt, Benjamin Recht, Oriol Vinyals (ICLR 2017)_](https://arxiv.org/abs/1611.03530)
+
 * [**A Closer Look at Memorization in Deep Networks** _by Devansh Arpit, Stanisław Jastrzębski, Nicolas Ballas, David Krueger, Emmanuel Bengio, Maxinder S. Kanwal, Tegan Maharaj, Asja Fischer, Aaron Courville, Yoshua Bengio, Simon Lacoste-Julien (ICML 2017)_](https://arxiv.org/abs/1706.05394)
+
 * [**The Loss Surfaces of Multilayer Networks** _by Anna Choromanska, Mikael Henaff, Michael Mathieu, Gérard Ben Arous, Yann LeCun (2015)_](https://arxiv.org/abs/1412.0233)
+
 * [**Everything you wanted to know about Deep Learning for Computer Vision but were afraid to ask** _by Ponti, Moacir Antonelli, Ribeiro, Leonardo Sampaio Ferraz, Nazare, Tiago Santana, Bui, Tu and Collomosse, John (2018)_](http://sibgrapi.sid.inpe.br/col/sid.inpe.br/sibgrapi/2017/09.05.22.09/doc/_2017_sibgrapi__Tutorial_Deep_Learning_for_CV___Survey_Paper_CRP.pdf)
+
+* [**Deep Pyramidal Residual Networks _by Dongyoon Han, Jiwhan Kim, Junmo Kim (CVPR 2017)_**](https://arxiv.org/pdf/1610.02915.pdf)
+
+* [**Feature Pyramid Networks for Object Detection _by Tsung-Yi Lin, Piotr Dollár, Ross Girshick, Kaiming He, Bharath Hariharan, Serge Belongie (CVPR 2017)_**](https://arxiv.org/pdf/1612.03144.pdf)
+
+* [**EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks _by Mingxing Tan, Quoc V. Le (ICML 2019)_**](https://arxiv.org/pdf/1905.11946.pdf)
+
+* [**EfficientDet: Scalable and Efficient Object Detection _by Mingxing Tan, Ruoming Pang, Quoc V. Le (submitted to CVPR 2020)_**](https://arxiv.org/pdf/1911.09070.pdf)
